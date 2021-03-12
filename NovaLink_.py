@@ -12,7 +12,7 @@ import ctypes  # An included library with Python install.
 pd.options.display.width = 0 # Viser alle colloner ved print
 pd.options.display.float_format = '{:,.2f}'.format
 
-#Test for commit -m "Tekst her" En gang til
+#Test for commit -m "Tekst her" En gang tilSkriver litt til her!!!!
 #Setter opp mapper og leser definisjonsfiler
 folder = os.path.dirname(os.path.abspath(__file__))
 folder_Inn = folder + "\Inndata\\"
